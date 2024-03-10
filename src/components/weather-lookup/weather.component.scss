@@ -1,0 +1,22 @@
+.app-weather {
+    max-width: 600px;
+    margin: 0 auto;
+    height: 100px;
+    margin-top: 1rem;
+}
+
+.lookup-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    button {
+        margin-bottom: 1rem;
+    }
+}
+
+.mat-mdc-progress-spinner {
+    width: 50px !important;
+    margin-bottom: 1rem;
+    margin: 0 auto;
+}
