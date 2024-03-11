@@ -1,5 +1,5 @@
 # WeatherApp
-
+Weather App built with Angular that utilizes 0Auth authentication and Weather API
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.4.
 
 ## Development server
